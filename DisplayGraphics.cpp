@@ -5,9 +5,6 @@
 #include <Windows.h>
 #include <WinInet.h>
 
-using namespace std;
-
-
 // My header files
 #include "DisplayGraphics.h"
 #include "CheckForNetwork.h"
